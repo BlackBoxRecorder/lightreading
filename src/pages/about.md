@@ -1,36 +1,12 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "关于"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+在快时代按下暂停键，让经典文字重塑生命的厚度。
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+在快节奏的现代社会，文学经典恰似一盏明灯，照亮人们的精神世界。它凝聚着不同时代的智慧与情感，跨越时空与我们对话。
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+经典中的文字经过岁月打磨，细腻且深刻，不仅让我们领略语言之美，还能引发对生命、对世界的思考。在喧嚣浮躁的当下，阅读经典是一场与伟大灵魂的深度交流，能让我们沉淀内心，汲取力量，在精神世界中找到属于自己的诗意栖居。
 
-<div>
-  <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+当我们养成阅读习惯，就如同在生命里点亮一盏长明之灯。它不仅能帮我们摆脱碎片化信息的浅尝辄止，还能让我们在持续阅读经典的过程中，提升专注力与思考力，在文字中感受多样人生，丰富精神世界，在喧嚣中寻得内心的宁静与力量。
